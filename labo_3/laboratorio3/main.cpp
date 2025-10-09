@@ -113,4 +113,7 @@ int main() {
     cout << "Bits escritos: " << resultado.size() << endl;
 
     return 0;
+
+    // prueva de modificación en el codigo
+
 }
